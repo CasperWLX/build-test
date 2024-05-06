@@ -23,4 +23,9 @@ public class TestStringFormater
     void testWrongFormating(){
         assertEquals("TeSt", stringFormater.toNameFormat("TEST"));
     }
+
+    @Test
+    void failedTest(){
+        assertEquals(2,5);
+    }
 }
