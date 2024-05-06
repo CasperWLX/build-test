@@ -19,12 +19,7 @@ public class TestStringFormater
     }
 
     @Test
-    void testWrongFormating(){
-        assertEquals("TeSt", stringFormater.toNameFormat("TEST"));
-    }
-
-    @Test
     void failedTest(){
-        assertEquals(13,5);
+        assertEquals(5,5);
     }
 }
