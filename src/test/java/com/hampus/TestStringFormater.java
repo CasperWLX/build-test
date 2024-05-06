@@ -1,4 +1,5 @@
-import com.hampus.demo.StringFormater;
+package com.hampus;
+
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
@@ -25,6 +26,6 @@ public class TestStringFormater
 
     @Test
     void failedTest(){
-        assertEquals(6,5);
+        assertEquals(7,5);
     }
 }

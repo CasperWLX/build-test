@@ -1,4 +1,4 @@
-package com.hampus.demo;
+package com.hampus;
 
 public class Main
 {
