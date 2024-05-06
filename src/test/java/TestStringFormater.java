@@ -1,5 +1,4 @@
-package com.hampus.demo;
-
+import com.hampus.demo.StringFormater;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
