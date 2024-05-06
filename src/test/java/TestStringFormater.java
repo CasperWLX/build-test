@@ -25,6 +25,6 @@ public class TestStringFormater
 
     @Test
     void failedTest(){
-        assertEquals(9,5);
+        assertEquals(10,5);
     }
 }
